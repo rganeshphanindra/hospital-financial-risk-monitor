@@ -10,7 +10,7 @@ This project combines Python based analysis, executive level insights, and an in
 
 
 
-### **Why this project exists**
+## **Why this project exists**
 
 
 
@@ -26,7 +26,7 @@ Hospitals fail financially for different reasons, but leadership time and capita
 
 
 
-### **Business problem**
+## **Business problem**
 
 
 
@@ -56,7 +56,7 @@ The outcome is a framework that enables leadership to focus intervention efforts
 
 
 
-### **Dataset overview**
+## **Dataset overview**
 
 
 
@@ -104,7 +104,7 @@ This scope was intentionally chosen to support prioritization and intervention d
 
 
 
-### **Analytical approach**
+## **Analytical approach**
 
 
 
@@ -144,7 +144,7 @@ This approach ensures that analytical rigor directly translates into actionable 
 
 
 
-### **Key findings**
+## **Key findings**
 
 
 
@@ -178,7 +178,7 @@ While low utilization exists in some loss making hospitals, it does not explain 
 
 
 
-### **Executive recommendations**
+## **Executive recommendations**
 
 
 
@@ -212,7 +212,7 @@ While low utilization exists in some loss making hospitals, it does not explain 
 
 
 
-### **Tableau dashboard**
+## **Tableau dashboard**
 
 
 
@@ -242,7 +242,7 @@ A published Tableau Public version is included in this repository.
 
 
 
-### **Repository structure**
+## **Repository structure**
 
 
 
@@ -300,7 +300,7 @@ A published Tableau Public version is included in this repository.
 
 
 
-### **How to reproduce**
+## **How to reproduce**
 
 
 
