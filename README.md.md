@@ -292,10 +292,6 @@ A published Tableau Public version is included in this repository.
 
 │
 
-├── docs
-
-│
-
 └── README.md
 
 
